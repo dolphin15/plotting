@@ -1,5 +1,8 @@
 # plotting
 
+Python version: 3.7.2
+Matlab version: '9.4.0.813654 (R2018a)'
+
 The first plot in the figure shows 𝑦 = 𝑒^𝑥 function. 
 
 In the second plot, there are two functions:
